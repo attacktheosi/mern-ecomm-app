@@ -1,7 +1,7 @@
 {
-  "name": "pcparts-app",
+  "name": "MERN-ecomm-app",
   "version": "1.0.0",
-  "description": "MERN shopping cart app",
+  "description": "MERN eComm app",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/r1pk3n/pcparts-app.git"
+    "url": "git+https://github.com/r1pk3n/mern-ecomm-app.git"
   },
   "author": "Robert",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/r1pk3n/pcparts-app/issues"
+    "url": "https://github.com/r1pk3n/mern-ecomm-app/issues"
   },
-  "homepage": "https://github.com/r1pk3n/pcparts-app#readme",
+  "homepage": "https://github.com/r1pk3n/mern-ecomm-app#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
