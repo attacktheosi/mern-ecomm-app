@@ -70,7 +70,7 @@ const ProductScreen = ({ history, match }) => {
                     <Col>
                       Price:
                       <Col>
-                        <strong>{product.price}</strong>
+                        <strong>${product.price}</strong>
                       </Col>
                     </Col>
                   </Row>
