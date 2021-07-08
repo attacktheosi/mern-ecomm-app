@@ -9,7 +9,7 @@ const products = [
     price: 1300,
     countInStock: 2,
     rating: 4.5,
-    numReviews: 12,
+    numReviews: 6,
   },
   {
     name: 'Asus Rog Strix RTX 3080 TI',
@@ -43,7 +43,7 @@ const products = [
     category: 'Graphics Card/GPU',
     price: 2200.99,
     countInStock: 0,
-    rating: 5,
+    rating: 4.5,
     numReviews: 12,
   },
   {
@@ -55,7 +55,7 @@ const products = [
     category: 'Graphics Card/GPU',
     price: 499.99,
     countInStock: 1,
-    rating: 5,
+    rating: 5.0,
     numReviews: 20,
   },
   {
@@ -67,7 +67,7 @@ const products = [
     category: 'Graphics Card/GPU',
     price: 699.99,
     countInStock: 0,
-    rating: 5,
+    rating: 5.0,
     numReviews: 32,
   },
 ];
