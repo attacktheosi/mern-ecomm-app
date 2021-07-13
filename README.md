@@ -14,3 +14,5 @@ Mark orders as delivered option
 Checkout process (shipping, payment method, etc)
 PayPal / credit card integration
 Database seeder (products & users)
+
+<img src="/frontend/public/images/gpudrop.png" width="400">
