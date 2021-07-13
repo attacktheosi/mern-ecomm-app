@@ -1,4 +1,5 @@
-eCommerce course project built with MERN stack & redux.
+My eCommerce course project built with MERN stack & redux by Brad Traversy.
+---#GPU-Drop----
 Features
 Full featured shopping cart
 Product reviews and ratings
