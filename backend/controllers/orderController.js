@@ -74,7 +74,7 @@ const updateOrderToPaid = asyncHandler(async (req, res) => {
 
     const updatedOrder = await order.save();
 
-    res.json(updateOrder);
+    res.json(updatedOrder);
   } else {
     res.status(404);
     throw new Error('Order not found');
@@ -86,7 +86,7 @@ const updateOrderToPaid = asyncHandler(async (req, res) => {
 // @access Private
 
 const getMyOrders = asyncHandler(async (req, res) => {
-  const orders = await Order.findBy({ user: req.user._id });
+  const orders = await Order.find({ user: req.user._id });
   res.json(orders);
 });
 
